@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+	You create a new repository with nothing in it in the location that youre currently working in. The repository is what allows version control.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	It is the middle man between the two. It offers value by giving the user more control upon what they commit from the directory.
+

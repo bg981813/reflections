@@ -16,3 +16,9 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 	the result is still the master brach, however the commits from both the master and the new branch are added by the time in which the commits were made and what had changed from the parent commit.  It is represented this way because it is what makes the most logical sense.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	Pro:
+		Quick and efficient for most of the code.
+	Con:
+		Not smart enough to decide some merges, so it relies on the authors to decide how to merge certain sections.
+
